@@ -1,4 +1,5 @@
-sudo apt-get install mercurial libpcap-dev iw
+sudo apt-get update && sudo apt-get dist-upgrade
+sudo apt-get install git mercurial libpcap-dev iw
 cd ~
 git clone https://github.com/Dronecode/MAVProxy.git
 hg clone https://bitbucket.org/befi/wifibroadcast
