@@ -1,0 +1,2 @@
+SUBSYSTEM=="net",ATTR{address}=="ec:08:6b:19:54:da",DRIVER=="ath9k_htc",NAME="wlan0"
+
