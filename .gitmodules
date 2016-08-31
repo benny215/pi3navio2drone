@@ -1,0 +1,6 @@
+[submodule "MyPiModule"]
+	path = MyPiModule
+	url = https://github.com/MyPiDrone/MyPiModule.git
+[submodule "MAVProxy"]
+	path = MAVProxy
+  url = https://github.com/ArduPilot/MAVProxy.git
